@@ -1,4 +1,4 @@
-<h2 align="center">Who am I?</h2>
+Who am I?
 - kts
 - 14
 
