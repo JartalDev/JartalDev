@@ -1,10 +1,10 @@
 <h2 align="center">Who am I?</h2>
-- kts
-- 14
+kts
+14
 
 <h2 align="center">What am I working on?</h2>
-- I am currently working on a brand new FiveM server coming out!
-- https://discord.gg/unity5m
+I am currently working on a brand new FiveM server coming out!
+https://discord.gg/unity5m
 
 <h2 align="center">What are my previous projects?</h2>
 - Juice Bot | A multipurpose bot that is fully functional.
