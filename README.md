@@ -1,6 +1,4 @@
 # <h2 align="center">What am I working on?</h2>
-
-<h2 align="center">What am I working on?</h2>
 - kts
 - 14
 
