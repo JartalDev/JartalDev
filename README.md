@@ -1,5 +1,6 @@
 # Who am i?
-- My name is kts also known as, Jack.
+- kts
+- 14
 
 # What am I working on?
 - I am currently working on a brand new FiveM server coming out!
