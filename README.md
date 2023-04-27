@@ -18,4 +18,4 @@
 <h2 align="center">How can I be contacted?</h2>
 - You can contact me through my discord | kts#6276
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/609044650019258407?theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Probably%20asleep)](https://discord.com/users/799358398075502642)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/799358398075502642?theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Probably%20asleep)](https://discord.com/users/799358398075502642)
