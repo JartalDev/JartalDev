@@ -3,8 +3,7 @@
 - 14
 
 # <h2 align="center">What am I working on?</h2>
-I am currently working on a brand new FiveM server coming out!
-https://discord.gg/unity5m
+I am working on something that will be coming out within the next month or two...
 
 # <h2 align="center">What are my previous projects?</h2>
 - Juice Bot | A multipurpose bot that is fully functional.
